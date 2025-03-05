@@ -12,7 +12,7 @@
         Me.Y = y
     End Sub
     Public Overridable Function Metric() As Double
-        Metric = Math.Sqrt((X ^ 2 + Y ^ 2))
+        Metric = Math.Sqrt((X ^ 2) + (Y ^ 2))
     End Function
     Public Overrides Function ToString() As String
         Return String.Format("({0}, {1})", X, Y)

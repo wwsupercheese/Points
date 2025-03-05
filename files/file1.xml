@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Point>
-    <X>6</X>
-    <Y>1</Y>
-  </Point>
-  <Point>
-    <X>9</X>
-    <Y>5</Y>
-  </Point>
-  <Point>
-    <X>6</X>
-    <Y>4</Y>
-  </Point>
-  <Point>
     <X>3</X>
-    <Y>9</Y>
+    <Y>3</Y>
   </Point>
   <Point xsi:type="Point3D">
-    <X>2</X>
-    <Y>5</Y>
-    <Z>7</Z>
+    <X>9</X>
+    <Y>3</Y>
+    <Z>5</Z>
+  </Point>
+  <Point xsi:type="Point3D">
+    <X>8</X>
+    <Y>6</Y>
+    <Z>6</Z>
+  </Point>
+  <Point xsi:type="Point3D">
+    <X>7</X>
+    <Y>6</Y>
+    <Z>3</Z>
+  </Point>
+  <Point>
+    <X>7</X>
+    <Y>3</Y>
   </Point>
 </ArrayOfPoint>

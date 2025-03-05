@@ -33,7 +33,7 @@ namespace WinFormsApp
         private void InitializeComponent()
         {
             listBox = new ListBox();
-            btnCreate = new Button();
+            btnClear = new Button();
             btnSort = new Button();
             btnSerialize = new Button();
             btnDeserialize = new Button();
@@ -48,15 +48,15 @@ namespace WinFormsApp
             listBox.Size = new Size(626, 364);
             listBox.TabIndex = 0;
             // 
-            // btnCreate
+            // btnClear
             // 
-            btnCreate.Location = new Point(12, 384);
-            btnCreate.Name = "btnCreate";
-            btnCreate.Size = new Size(152, 54);
-            btnCreate.TabIndex = 1;
-            btnCreate.Text = "Create";
-            btnCreate.UseVisualStyleBackColor = true;
-            btnCreate.Click += btnCreate_Click;
+            btnClear.Location = new Point(12, 384);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(152, 54);
+            btnClear.TabIndex = 1;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = true;
+            btnClear.Click += BtnClear_Click;
             // 
             // btnSort
             // 
@@ -66,7 +66,7 @@ namespace WinFormsApp
             btnSort.TabIndex = 2;
             btnSort.Text = "Sort";
             btnSort.UseVisualStyleBackColor = true;
-            btnSort.Click += btnSort_Click;
+            btnSort.Click += BtnSort_Click;
             // 
             // btnSerialize
             // 
@@ -76,7 +76,7 @@ namespace WinFormsApp
             btnSerialize.TabIndex = 3;
             btnSerialize.Text = "Serialize";
             btnSerialize.UseVisualStyleBackColor = true;
-            btnSerialize.Click += btnSerialize_Click;
+            btnSerialize.Click += BtnSerialize_Click;
             // 
             // btnDeserialize
             // 
@@ -86,7 +86,7 @@ namespace WinFormsApp
             btnDeserialize.TabIndex = 4;
             btnDeserialize.Text = "Deserialize";
             btnDeserialize.UseVisualStyleBackColor = true;
-            btnDeserialize.Click += btnDeserialize_Click;
+            btnDeserialize.Click += BtnDeserialize_Click;
             // 
             // PointForm
             // 
@@ -96,7 +96,7 @@ namespace WinFormsApp
             Controls.Add(btnDeserialize);
             Controls.Add(btnSerialize);
             Controls.Add(btnSort);
-            Controls.Add(btnCreate);
+            Controls.Add(btnClear);
             Controls.Add(listBox);
             Name = "PointForm";
             Text = "PointForm";
@@ -106,7 +106,7 @@ namespace WinFormsApp
         #endregion
 
         private ListBox listBox;
-        private Button btnCreate;
+        private Button btnClear;
         private Button btnSort;
         private Button btnSerialize;
         private Button btnDeserialize;

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WinFormsApp
 {
@@ -23,7 +19,7 @@ namespace WinFormsApp
 
         public override double Metric()
         {
-            return Math.Sqrt(X * X + Y * Y + Z * Z);
+            return Math.Sqrt((X * X) + (Y * Y) + (Z * Z));
         }
 
         public override string ToString()

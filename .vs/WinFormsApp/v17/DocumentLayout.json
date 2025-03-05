@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\pointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\vital\\source\\repos\\winformsapp\\winformsapp\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\vital\\source\\repos\\winformsapp\\winformsapp\\pointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\pointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0FA69FB-A817-C95C-D607-C0AAB304777E}|Points\\PointLib\\PointLib.vbproj|c:\\users\\vital\\source\\repos\\winformsapp\\points\\pointlib\\point.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{A0FA69FB-A817-C95C-D607-C0AAB304777E}|Points\\PointLib\\PointLib.vbproj|solutionrelative:points\\pointlib\\point.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\Vital\\source\\repos\\WinFormsApp\\winformsapp\\pointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\pointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\vital\\source\\repos\\winformsapp\\winformsapp\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700AE49E-0350-433E-B7CF-B47EABA64972}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +38,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\PointForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\PointForm.cs",
+              "ToolTip": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp\\PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:36:20.701Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Point.vb",
               "DocumentMoniker": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\Points\\PointLib\\Point.vb",
               "RelativeDocumentMoniker": "Points\\PointLib\\Point.vb",
               "ToolTip": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\Points\\PointLib\\Point.vb",
               "RelativeToolTip": "Points\\PointLib\\Point.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-05T08:29:53.479Z",
               "EditorCaption": ""
@@ -52,18 +64,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\PointForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\PointForm.cs",
-              "ToolTip": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp\\PointForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T08:22:18.805Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Point3D.cs",
               "DocumentMoniker": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\Point3D.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Point3D.cs",
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "WinFormsApp\\PointForm.cs",
               "ToolTip": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\PointForm.cs",
               "RelativeToolTip": "WinFormsApp\\PointForm.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAYwNIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T08:02:16.915Z",
               "EditorCaption": ""

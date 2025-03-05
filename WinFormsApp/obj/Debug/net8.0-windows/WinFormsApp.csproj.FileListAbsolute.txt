@@ -52,3 +52,4 @@ C:\Users\Vital\source\repos\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\tr\
 C:\Users\Vital\source\repos\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
 C:\Users\Vital\source\repos\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
 C:\Users\Vital\source\repos\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\Vital\source\repos\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.sourcelink.json
