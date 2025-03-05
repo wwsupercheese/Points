@@ -1,0 +1,11 @@
+C:\Users\Vital\source\repos\Points\PointLib\bin\Debug\net8.0\PointLib.deps.json
+C:\Users\Vital\source\repos\Points\PointLib\bin\Debug\net8.0\PointLib.dll
+C:\Users\Vital\source\repos\Points\PointLib\bin\Debug\net8.0\PointLib.pdb
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.AssemblyInfoInputs.cache
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.AssemblyInfo.vb
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.dll
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\refint\PointLib.dll
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\PointLib.pdb
+C:\Users\Vital\source\repos\Points\PointLib\obj\Debug\net8.0\ref\PointLib.dll

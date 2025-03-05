@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SoapCore" Version="1.2.0" />
+    <PackageReference Include="System.Runtime.Serialization.Formatters" Version="9.0.2" />
+    <PackageReference Include="YamlDotNet" Version="16.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PointLib">
+      <HintPath>..\Points\PointLib\bin\Debug\net8.0\PointLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

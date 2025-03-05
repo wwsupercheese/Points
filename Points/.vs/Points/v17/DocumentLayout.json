@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vital\\source\\repos\\Points\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94BDF9-477F-41A8-BE39-19FAC2E66EE3}|PointLib\\PointLib.vbproj|c:\\users\\vital\\source\\repos\\points\\pointlib\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C94BDF9-477F-41A8-BE39-19FAC2E66EE3}|PointLib\\PointLib.vbproj|solutionrelative:pointlib\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\Vital\\source\\repos\\Points\\PointLib\\Class1.vb",
+              "RelativeDocumentMoniker": "PointLib\\Class1.vb",
+              "ToolTip": "C:\\Users\\Vital\\source\\repos\\Points\\PointLib\\Class1.vb",
+              "RelativeToolTip": "PointLib\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T07:14:21.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "oR1RluhO9OE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vital\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vital\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.2\\microsoft.aspnetcore.connections.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\microsoft.extensions.features\\8.0.2\\microsoft.extensions.features.8.0.2.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\soapcore\\1.2.0\\soapcore.1.2.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.runtime.serialization.formatters\\9.0.2\\system.runtime.serialization.formatters.9.0.2.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.security.cryptography.xml\\8.0.0\\system.security.cryptography.xml.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.servicemodel.http\\8.0.0\\system.servicemodel.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.servicemodel.primitives\\8.0.0\\system.servicemodel.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vital\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
